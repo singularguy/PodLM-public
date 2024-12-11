@@ -1,0 +1,34 @@
+[
+    {
+        "taskId": "task_1",
+        "url": "https://example.com/page1",
+        "status": "pending",
+        "progress": "等待处理",
+        "createdAt": "2023-10-01T12:00:00",
+        "updatedAt": "2023-10-01T12:00:00"
+    },
+    {
+        "taskId": "task_2",
+        "url": "https://example.com/page2",
+        "status": "pending",
+        "progress": "等待处理",
+        "createdAt": "2023-10-01T12:05:00",
+        "updatedAt": "2023-10-01T12:05:00"
+    },
+    {
+        "taskId": "task_3",
+        "url": "https://example.com/page3",
+        "status": "pending",
+        "progress": "等待处理",
+        "createdAt": "2023-10-01T12:10:00",
+        "updatedAt": "2023-10-01T12:15:00"
+    },
+    {
+        "taskId": "task_4",
+        "url": "https://example.com/page4",
+        "status": "pending",
+        "progress": "等待处理",
+        "createdAt": "2023-10-01T12:20:00",
+        "updatedAt": "2023-10-01T12:20:00"
+    }
+]
